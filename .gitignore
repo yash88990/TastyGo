@@ -1,0 +1,15 @@
+# Ignore Node.js dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignore Vercel build files
+.vercel/
+
+# Ignore environment variables
+.env
+server/.env
+client/.env
+
+# Ignore log files
+*.log
